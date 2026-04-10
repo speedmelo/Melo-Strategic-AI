@@ -12,4 +12,3 @@ stripe
 psycopg2-binary
 python-jose[cryptography]
 passlib[bcrypt]
-pt-core-news-sm
